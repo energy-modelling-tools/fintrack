@@ -1,6 +1,6 @@
 events:
   - title: "EMP-LAC 2025 – Buenos Aires, Argentina"
-    image: "/assets/img/EMP/emp-lac-2024.png"
+    image: "../assets/img/EMP/emp-lac-2024.png"
     alt: "EMP-LAC 2025"
     description: "Held from 3 to 14 February at Universidad Nacional de La Matanza (UNLaM). Co-hosted by CCG, UNLaM, Universidade Federal de Juiz de Fora, and the British Embassy in Argentina."
     outputs:
@@ -22,7 +22,7 @@ events:
         url: "https://zenodo.org/records/14868015"
 
   - title: "EMP-G 2024 – Trieste, Italy"
-    image: "/assets/img/EMP/emp-g-2024.png"
+    image: "../assets/img/EMP/emp-g-2024.png"
     alt: "EMP-G 2024"
     description: "Held from 12–23 August at ICTP. Seven national teams developed country-specific models."
     outputs:
@@ -56,7 +56,7 @@ events:
         url: "https://zenodo.org/records/13361392"
 
   - title: "EMP-A 2024 – Accra, Ghana"
-    image: "/assets/img/EMP/emp-a-2024.png"
+    image: "../assets/img/EMP/emp-a-2024.png"
     alt: "EMP-A 2024"
     description: "Held from 20–31 May at Ghana Institute of Management and Public Administration. Ten teams worked on national energy models."
     outputs:
