@@ -7,5 +7,3 @@ permalink: /contact/
 
 {% include coming_soon.html %}
 
-{% include forum_cta.html %}
-
