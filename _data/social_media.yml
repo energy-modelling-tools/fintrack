@@ -1,8 +1,8 @@
 - name: GitHub
   icon: bi bi-github
   url:  
-- name: Discord
-  icon: bi bi-discord
+- name: Discourse
+  icon: /assets/img/EMC_2_smaller.png
   url: https://forum.u4ria.org/
 
 
