@@ -12,12 +12,12 @@ permalink: /learning_capacity/
     <h2 class="alt-h2 mb-4">Learning & Capacity Building</h2>
   </div>
    <div class="mt-3 animate-in">
-       <h3 class="alt-h3 mt-3 animate-in" style="font-size: 1.25rem;">
-        <a href="https://www.open.edu/openlearncreate/course/view.php?id=13558" class="text-dark font-weight-bold" style="text-decoration: none;">
+       <h3 class="alt-h3 mt-3 animate-in">
+        <a href="https://www.open.edu/openlearncreate/course/view.php?id=13558" class="text-dark font-weight-bold">
           <strong>📘 E-Learning Material:Financial Modelling for Energy Transitions MINFin, FinTrack & FinCoRE </strong>
         </a>
       </h3>
-      <p class="animate-in" style="font-size: 0.95rem;">The Financial Modelling for Energy Transitions course provides participants with the foundational skills to evaluate the financial viability of energy transition investments on the national level, particularly in low- and middle-income countries. The course introduces MINFin (Model for Informed National Financing), an Excel-based cashflow model designed to identify and assess climate finance gaps at the national level. Participants will also work with two data visualisation tools: FinTrack (Climate Finance Tracker), which maps funding sources, highlights underutilised financing resources, and details financing access criteria; and FinCoRE (Financing Costs for Renewables Estimator), which offers historical and forward-looking projections of cost of capital. By the end of the course, participants will be equipped to apply these tools and principles to effectively address the financial needs of climate transitions.</p>
+      <p class="animate-in">The Financial Modelling for Energy Transitions course provides participants with the foundational skills to evaluate the financial viability of energy transition investments on the national level, particularly in low- and middle-income countries. The course introduces MINFin (Model for Informed National Financing), an Excel-based cashflow model designed to identify and assess climate finance gaps at the national level. Participants will also work with two data visualisation tools: FinTrack (Climate Finance Tracker), which maps funding sources, highlights underutilised financing resources, and details financing access criteria; and FinCoRE (Financing Costs for Renewables Estimator), which offers historical and forward-looking projections of cost of capital. By the end of the course, participants will be equipped to apply these tools and principles to effectively address the financial needs of climate transitions.</p>
       <p class="animate-in">
         <a href=" https://www.open.edu/openlearncreate/course/view.php?id=14218" class="btn btn-outline-light">Access Here →</a>
       </p>
@@ -26,11 +26,11 @@ permalink: /learning_capacity/
 
 <!---
     <div class="mt-3 animate-in">
-      <h3 class="alt-h3 mt-3 animate-in" style="font-size: 1.25rem;">📦 Starter Data Kits</h3>
-      <p class="animate-in" style="font-size: 0.95rem;">Take your skills to the next level by modelling a zero-order representation of your country using specially designed national data packages adapted for OSeMOSYS.</p>
+      <h3 class="alt-h3 mt-3 animate-in">📦 Starter Data Kits</h3>
+      <p class="animate-in">Take your skills to the next level by modelling a zero-order representation of your country using specially designed national data packages adapted for OSeMOSYS.</p>
       <div class="row align-items-center mb-4 animate-in">
         <div class="col-md-6">
-          <p class="animate-in" style="font-size: 0.95rem;">Enhance your skills in energy systems modelling with our user-friendly interface and additional learning materials, enabling comprehensive national-level modelling of the power and transport sectors.</p>
+          <p class="animate-in">Enhance your skills in energy systems modelling with our user-friendly interface and additional learning materials, enabling comprehensive national-level modelling of the power and transport sectors.</p>
           <ul class="animate-in">
             <li><strong>Download Interface</strong> – <em>Coming soon</em></li>
             <li><strong>Teaching Material (Zenodo)</strong> – <em>Coming soon</em></li>
@@ -40,22 +40,22 @@ permalink: /learning_capacity/
     </div>
 
     <div class="mt-3 animate-in">
-      <h3 class="alt-h3 mt-1 animate-in" style="font-size: 1.25rem;">🎓 Energy Modelling Community (YouTube Playlist)</h3>
+      <h3 class="alt-h3 mt-1 animate-in">🎓 Energy Modelling Community (YouTube Playlist)</h3>
       <div class="row align-items-center text-left mb-4 animate-in">
         <div class="col-md-6">
-          <p class="animate-in" style="font-size: 0.95rem;">Explore insights and community discussions from the Energy Modelling Platform and Climate Compatible Growth events.</p>
-          <p class="animate-in"><a href="https://www.youtube.com/watch?v=of8JpyEd8_Y&list=PLhLN8V8JSUnJgt4SIE7gnXXncVEaXh0Ir" target="_blank" class="btn btn-outline-primary sky-blue-accent d-block d-sm-inline-block px-1 px-md-3" style="border-color: #3490dc; color: #3490dc;">Watch on YouTube →</a></p>
+          <p class="animate-in">Explore insights and community discussions from the Energy Modelling Platform and Climate Compatible Growth events.</p>
+          <p class="animate-in"><a href="https://www.youtube.com/watch?v=of8JpyEd8_Y&list=PLhLN8V8JSUnJgt4SIE7gnXXncVEaXh0Ir" target="_blank" class="btn btn-outline-primary sky-blue-accent d-block d-sm-inline-block px-1 px-md-3">Watch on YouTube →</a></p>
         </div>
       </div>
     </div>
 
     <div class="mt-3 animate-in">
-      <h3 class="alt-h3 mt-3 animate-in" style="font-size: 1.25rem;">
-        <a href="https://climatecompatiblegrowth.com/energy-modelling-platform/" class="text-dark font-weight-bold" style="text-decoration: none;">
+      <h3 class="alt-h3 mt-3 animate-in">
+        <a href="https://climatecompatiblegrowth.com/energy-modelling-platform/" class="text-dark font-weight-bold">
           <strong>🌍 Energy Modelling Platforms (EMPs)</strong>
         </a>
       </h3>
-      <p class="animate-in" style="font-size: 0.95rem;">By offering training to professionals from the Global South, the Energy Modelling Platforms (EMPs) enable these countries to gather critical data, perform independent analyses, and develop credible investment proposals for clean energy infrastructure projects. EMPs play a vital role in what we refer to as local capacity building.</p>
+      <p class="animate-in">By offering training to professionals from the Global South, the Energy Modelling Platforms (EMPs) enable these countries to gather critical data, perform independent analyses, and develop credible investment proposals for clean energy infrastructure projects. EMPs play a vital role in what we refer to as local capacity building.</p>
       <p class="animate-in">
         <a href="https://climatecompatiblegrowth.com/energy-modelling-platform/" class="btn btn-outline-light">Learn more →</a>
       </p>
@@ -63,7 +63,7 @@ permalink: /learning_capacity/
 
 
     <div class="container-lg p-responsive py-4 py-md-6 my-lg-6 animate-in">
-      <h3 class="alt-h3 text-center mb-3 animate-in" style="font-size: 1.25rem;">🌍 Explore EMP Events</h3>
+      <h3 class="alt-h3 text-center mb-3 animate-in">🌍 Explore EMP Events</h3>
       
       <div class="clearfix gutter-spacious">
         {% for event in site.data.learning_events.events %}
@@ -100,8 +100,8 @@ permalink: /learning_capacity/
       </div>
     </div>
 
-    <h3 class="alt-h3 mt-3 animate-in" style="font-size: 1.25rem;">🛠️ Flatpack Program</h3>
-    <p class="animate-in" style="font-size: 0.95rem;">Content to be updated soon.</p>
+    <h3 class="alt-h3 mt-3 animate-in">🛠️ Flatpack Program</h3>
+    <p class="animate-in">Content to be updated soon.</p>
   
   -->
   </div>
