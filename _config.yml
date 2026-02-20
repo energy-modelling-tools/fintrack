@@ -7,7 +7,7 @@
 
 # global settings
 title: FinTrack
-logo: "/assets/img/logos/FinTrack.svg"
+logo: "/assets/img/logos/fintrack.svg"
 description: "GitHub helps government build software better, together"
 baseurl: "/fintrack"
 permalink: "/stories/:title"
