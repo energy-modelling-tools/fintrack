@@ -17,7 +17,9 @@ permalink: /learning_capacity/
           <strong>📘 E-Learning Material:Financial Modelling for Energy Transitions MINFin, FinTrack & FinCoRE </strong>
         </a>
       </h3>
+      <!-- CMS:section id=learning_capacity_e_learning_material_financial_modelling -->
       <p class="animate-in">The Financial Modelling for Energy Transitions course provides participants with the foundational skills to evaluate the financial viability of energy transition investments on the national level, particularly in low- and middle-income countries. The course introduces MINFin (Model for Informed National Financing), an Excel-based cashflow model designed to identify and assess climate finance gaps at the national level. Participants will also work with two data visualisation tools: FinTrack (Climate Finance Tracker), which maps funding sources, highlights underutilised financing resources, and details financing access criteria; and FinCoRE (Financing Costs for Renewables Estimator), which offers historical and forward-looking projections of cost of capital. By the end of the course, participants will be equipped to apply these tools and principles to effectively address the financial needs of climate transitions.</p>
+      <!-- /CMS:section -->
       <p class="animate-in">
         <a href=" https://www.open.edu/openlearncreate/course/view.php?id=14218" class="btn btn-outline-light">Access Here →</a>
       </p>
