@@ -17,6 +17,9 @@ forum_slug: "fintrack"
 # Remote Theme Configuration
 remote_theme: energy-modelling-tools/page-template@main
 
+# No Starter Data Kit for this tool yet; the SDK tab waits on the coming-soon page
+sdk_url: /coming-soon/
+
 # build settings
 exclude: ["script", "vendor", "bower.json", "Gemfile", "Gemfile.lock", "Rakefile", "readme.md", "package.json", "node_modules","*_tmp.html","*_tmp.*"]
 markdown: kramdown
